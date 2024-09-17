@@ -1,7 +1,7 @@
   
   // Declarando una varible generica para almacenar mi nombre y apellido
   var myName = 'Justin';
-  String myLastName = "Justin";
+  String myLastName = "Escorcia";
   final int myDNI = 210659;
   late final int myAge;
   
