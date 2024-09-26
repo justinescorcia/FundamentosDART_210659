@@ -13,7 +13,7 @@ void main() {
 
     // 3. Llamado de una función con un solo parámetro obligatorio
     // a) Llamado correcto
-    print(greetSomeone("Romualdo"));
+    print(greetSomeone("Justin"));
 
     // b) En caso de que la función esté declarada como <dynamic>
     print(greetSomeone(4));
@@ -33,9 +33,9 @@ void main() {
     // print(greetSomeone()); // No se puede ejecutar porque si no se definen los parámetros de una función, por default están definidos como obligatorios
     // 4. Llamado de una función con parámetros opcionales
     //4.1 Enviando parametros
-    print(greetHourOfDay("Romualdo", 20));
+    print(greetHourOfDay("Justin", 20));
     //4.2 solo enviando el obligatorio
-    print(greetHourOfDay("Romualdo",null));
+    print(greetHourOfDay("Justin",null));
 
     //5. FUNCIONES LAMBDA - las funciones lamdda, o mejor conocidas como funciones anonimas o funciones simplificadas
     //se ejecutan de manera simple y no frecuente en la ejecucion de un programa o sistema
