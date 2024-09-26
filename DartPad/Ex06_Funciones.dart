@@ -31,7 +31,6 @@ void main() {
 
     // 3.2
     // print(greetSomeone()); // No se puede ejecutar porque si no se definen los parámetros de una función, por default están definidos como obligatorios
-
     // 4. Llamado de una función con parámetros opcionales
     //4.1 Enviando parametros
     print(greetHourOfDay("Romualdo", 20));
