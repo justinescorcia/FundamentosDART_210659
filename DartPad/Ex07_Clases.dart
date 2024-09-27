@@ -12,7 +12,6 @@ void main() {
     final gambito = Hero("carta pum","remy");
   
 
-
     print(gambito);
     print(gambito.name);
     print(gambito.power);
