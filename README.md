@@ -15,6 +15,7 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil integra
 |7|Listas,Iterables y Conjuntos de Datos|9|Finalizada|
 |8|Funciones y parámetros|11|Finalizada|
 |9|Clases y sobreescritura de metodos|9|Finalizada|
+|10|Constructores Nombrados|8|Finalizada|
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style-for-the-badge&logo=dart&logoColor=white)
