@@ -17,10 +17,11 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil integra
 |9|Clases y sobreescritura de metodos|9|Finalizada|
 |10|Constructores Nombrados|8|Finalizada|
 |11|Getters (Lectura Controlada) y Setters (Modificaciòn Controlada)|9|Finalizada|
-|12|Clases Abstractas|11|Activa|
-|Tarea 4|Uso de las clases abstractas en el caso de estudio|10|Activa|
-|13|Aserciones|3|Activa|
-|14|Mixins|9|Activa|
+|12|Clases Abstractas|11|Finalizada|
+|Tarea 4|Uso de las clases abstractas en el caso de estudio|10|Finalizada|
+|13|Aserciones|3|Finalizada|
+|14|Mixins|9|Finalizada|
+|15|Futures|5|Activa|
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style-for-the-badge&logo=dart&logoColor=white)

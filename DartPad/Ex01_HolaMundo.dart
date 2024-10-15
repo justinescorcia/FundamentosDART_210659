@@ -1,4 +1,4 @@
-  
+  void main(){
   // Declarando una varible generica para almacenar mi nombre y apellido
   var myName = 'Justin';
   String myLastName = "Escorcia";
